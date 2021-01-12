@@ -10,7 +10,8 @@ int main()
 		
 		for (int j=1; j<=n; j++){
 			
-			if (j>=i)
+			if (j>=i)   // (j>=i)
+
 				cout <<"*";
 			else
 				cout <<" ";
