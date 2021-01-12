@@ -3,9 +3,7 @@ using namespace std;
 
 int main()
 {
-		
-	// Print all Patterns using DOG Method
-	
+
 	int n;
 	cin>>n;
 	
@@ -13,7 +11,7 @@ int main()
 		
 		for (int j=1; j<=n; j++){
 			
-			if (j<=i)
+			if (j<=i)   // ( j<=i ) 
 				cout <<"*";
 			else
 				cout <<" ";
