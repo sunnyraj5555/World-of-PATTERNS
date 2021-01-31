@@ -1,9 +1,8 @@
 # World-of-PATTERNS
-<hr>
-1.Pattern
-  *
-  * *
-  * * *
-  * * * * 
-  * * * * *
-<hr>
+
+1. Pattern1
+*
+* *
+* * *
+* * * * 
+* * * * *
